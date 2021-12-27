@@ -1,0 +1,15 @@
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\bin\Debug\net6.0\CrudSeries.exe
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\bin\Debug\net6.0\CrudSeries.deps.json
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\bin\Debug\net6.0\CrudSeries.runtimeconfig.json
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\bin\Debug\net6.0\CrudSeries.dll
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\bin\Debug\net6.0\ref\CrudSeries.dll
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\bin\Debug\net6.0\CrudSeries.pdb
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\obj\Debug\net6.0\CrudSeries.csproj.AssemblyReference.cache
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\obj\Debug\net6.0\CrudSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\obj\Debug\net6.0\CrudSeries.AssemblyInfoInputs.cache
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\obj\Debug\net6.0\CrudSeries.AssemblyInfo.cs
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\obj\Debug\net6.0\CrudSeries.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\obj\Debug\net6.0\CrudSeries.dll
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\obj\Debug\net6.0\ref\CrudSeries.dll
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\obj\Debug\net6.0\CrudSeries.pdb
+C:\Users\Lucas Matos\DigitalInovationOne\CrudSeries\CrudSeries\obj\Debug\net6.0\CrudSeries.genruntimeconfig.cache
